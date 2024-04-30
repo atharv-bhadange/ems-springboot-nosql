@@ -1,3 +1,5 @@
+# Employee Management System
+
 ## How to run the application
 
 ### Prerequisites
