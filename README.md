@@ -3,7 +3,7 @@
 ## How to run the application
 
 ### Prerequisites
-- Java 11
+- Java 17
 - Maven
 - Couchbase Server (Docker)
 - Postman (Optional)
